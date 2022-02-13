@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CognitoSampleApp", "CognitoSampleApp\CognitoSampleApp.csproj", "{B2F214AA-A3A0-41B1-8ACF-B0189BF9769C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C2EC164-316F-42BF-8901-4074DDA93A39}"
+	ProjectSection(SolutionItems) = preProject
+		..\readme.md = ..\readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F214AA-A3A0-41B1-8ACF-B0189BF9769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F214AA-A3A0-41B1-8ACF-B0189BF9769C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F214AA-A3A0-41B1-8ACF-B0189BF9769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F214AA-A3A0-41B1-8ACF-B0189BF9769C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B8AFD8-3C78-4FC3-B7DE-F9D4747B4E19}
+	EndGlobalSection
+EndGlobal
