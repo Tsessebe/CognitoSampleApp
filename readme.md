@@ -1,13 +1,12 @@
 # Cognito Sample App
 
 Using AWS Cognito as authentication provider in ASP.Net Core API.
-This example usses c# and .NET 5
+This example uses c# and .NET 5
 
 ![](content/TargetFramework.png)
 
 ## On-line Resources
 
-* [Google](https://www.google.com) - Use it, till you love it!
 * [AWS Console](https://console.aws.amazon.com) - AWS console (Requires an AWS Console [Account](https://portal.aws.amazon.com/billing/signup#/start))
 * [ASP.NET Core Identity Provider for Amazon Cognito](https://github.com/aws/aws-aspnet-cognito-identity-provider/) - Github repo
 
